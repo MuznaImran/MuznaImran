@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Muzna Imran Banner" width="100%">
+<img src="./assets/banner.png" width="100%">
 </p>
+
+<br>
 
 # Hi, I'm Muzna Imran 👋
 
-🎓 BS Cybersecurity Student | Aspiring SOC Analyst
-
-I'm a cybersecurity student with an interest in defensive security, networking, and security automation. I enjoy solving technical challenges, building practical projects, and continuously expanding my knowledge through hands-on learning.
+I'm a BS Cybersecurity student with an interest in defensive security, networking, and security automation. I enjoy solving technical challenges, building practical projects, and continuously expanding my knowledge through hands-on learning.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 Bachelor of Science in Cybersecurity
-- 💼 Cybersecurity Intern at OGDCL
+- 💼 Cybersecurity Intern
 - 🔒 Interested in Security Operations (SOC), Network Security, and Incident Response
 - 🐍 Building cybersecurity projects with Python
 - 🌱 Currently learning through TryHackMe and hands-on labs
