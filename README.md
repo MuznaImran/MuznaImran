@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Muzna Imran Banner" width="100%">
+</p>
+
 # Hi, I'm Muzna Imran 👋
 
 🎓 BS Cybersecurity Student | Aspiring SOC Analyst
