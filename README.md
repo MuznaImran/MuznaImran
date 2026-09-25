@@ -59,6 +59,7 @@ An in-progress collection of foundational notes on SIEM, XDR, and Wazuh, with a 
 
 ## CTF highlights
 
+- **1st place** — ByteBolt CTF (Fall 2023), achieved during my first semester
 - **Team Fatal Flaw — 41st overall and highest-ranked Pakistani team** — Black Hat MEA Qualification CTF (2026)
 - **Team Z3R0S — 20th overall** — Black Hat MEA Qualification CTF (2025)
 
@@ -70,7 +71,9 @@ An in-progress collection of foundational notes on SIEM, XDR, and Wazuh, with a 
 
 ## Selected certifications and training
 
-- Cisco — Introduction to Cybersecurity
-- SkillFront — ISO/IEC 27001 Information Security Associate
-- Mastercard and Deloitte Australia — Cybersecurity Job Simulations on Forage
-- HackerRank — Python (Basic)
+- **TryHackMe — Pre Security Learning Path (2026)** · Top 9% on TryHackMe
+- Cisco — Introduction to Cybersecurity (2026)
+- SkillFront — ISO/IEC 27001 Information Security Associate (2026)
+- Mastercard — Cybersecurity Job Simulation on Forage (2026)
+- Deloitte Australia — Cyber Job Simulation on Forage (2026)
+- HackerRank — Python (Basic) (2026)
