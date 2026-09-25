@@ -1,78 +1,76 @@
-<p align="center">
-<img src="./assets/banner.png" width="100%">
-</p>
+![Muzna Imran — SH3G0_0 cybersecurity portfolio](./assets/banner.png)
 
-<br>
+# Hi, I'm Muzna Imran
 
-# Hi, I'm Muzna Imran 👋
+**Final-year BS Cybersecurity student at Air University (expected June 2027), focused on SOC operations, network security, and practical defensive tooling.**
 
-I'm a BS Cybersecurity student with an interest in defensive security, networking, and security automation. I enjoy solving technical challenges, building practical projects, and continuously expanding my knowledge through hands-on learning.
+I combine hands-on SOC and NOC internship experience with security projects that turn concepts into clear, testable workflows. I am especially interested in blue-team operations, SIEM monitoring, network defense, and Python security automation.
 
----
+I publish my cybersecurity work under the operator handle **SH3G0_0**.
 
-## 👩‍💻 About Me
+[LinkedIn](https://www.linkedin.com/in/muzna-imran) · [Email](mailto:muznaimran328@gmail.com) · Islamabad, Pakistan
 
-- 🎓 Bachelor of Science in Cybersecurity
-- 💼 Cybersecurity Intern
-- 🔒 Interested in Security Operations (SOC), Network Security, and Incident Response
-- 🐍 Building cybersecurity projects with Python
-- 🌱 Currently learning through TryHackMe and hands-on labs
+## Featured projects
 
----
+### [Python Security Assessment Toolkit](https://github.com/MuznaImran/python-security-assessment-toolkit)
 
-## 🛠️ Technical Skills
+A defensive Python command-line toolkit for password hygiene, authorized TCP checks, SHA-256 integrity monitoring, SSH authentication-log triage, IOC enrichment, and JSON/CSV/TXT reporting.
 
-### Programming Languages
-- Python
-- C++
-- SQL
+- Guided, fully offline project demo
+- 46 automated tests and GitHub Actions validation on Python 3.11 and 3.13
+- Secure defaults, bounded network checks, synthetic samples, and documented limitations
 
-### Operating Systems
-- Linux
-- Kali Linux
-- Windows
+[Run the guided demo](https://github.com/MuznaImran/python-security-assessment-toolkit#run-the-guided-demo)
 
-### Networking
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- Network Fundamentals
+### [CivicFlow Service Request Tracker](https://github.com/MuznaImran/civicflow-service-request-tracker)
 
-### Cybersecurity
-- Wireshark
-- Nmap
-- Git & GitHub
-- Linux Security Fundamentals
+A full-stack resident and administrator workflow for submitting, assigning, resolving, auditing, and reporting community service requests.
 
----
+- React 19, TypeScript, Next.js route handlers, Cloudflare D1, and Drizzle ORM
+- Authenticated administrator workflow with signed sessions and CSRF protection
+- Operational dashboards, audit history, filters, and CSV exports
 
-## 📜 Certifications
+[Open the live demo](https://civicflow-request-tracker.muznaimran328.chatgpt.site/)
 
-- Cisco – Introduction to Cybersecurity
-- Forage – Mastercard Cybersecurity Job Simulation
-- Forage – Deloitte Australia Cyber Job Simulation
-- HackerRank – Python
-- SkillFront – ISO/IEC 27001 Information Security Associate™
-- Red Team Leaders – Certified Cybersecurity Educator Professional (CCEP)
+### [Wazuh SIEM Lab](https://github.com/MuznaImran/wazuh)
 
----
+An in-progress collection of foundational notes on SIEM, XDR, and Wazuh, with a roadmap for hands-on labs.
 
-## 📖 Currently Learning
+## Experience
 
-- TryHackMe – Pre Security
-- Python for Cybersecurity
-- SOC Fundamentals
-- Security Automation
+### SOC Analyst Intern — OGDCL | Jul–Aug 2026
 
----
+- Completed a six-week rotation split between SOC analysis and network security.
+- Reviewed security logs and alerts under supervision using a Wazuh-based front end.
+- Studied network-security controls and connected defensive concepts to practical investigation workflows.
 
-## 🚀 About This GitHub
+### NOC Intern — Engro Enfrashare | Aug–Sep 2026
 
-This GitHub showcases the projects and tools I build while developing my cybersecurity skills. My focus is on creating practical applications that strengthen my understanding of networking, automation, and defensive security.
+- Supported telecom-site monitoring, alarm verification, and coordination with field teams.
+- Contributed to requirements documentation and communication with developers for a planned internal website.
+- Helped prepare an operational schedule for the NOC department.
 
----
+## Technical focus
 
-## 📫 Connect With Me
+- **Security operations:** Wazuh, SIEM fundamentals, log analysis, alert triage, MITRE ATT&CK, incident-response fundamentals
+- **Network security:** TCP/IP, DNS, DHCP, VLANs, ACLs, NAT, VPNs, firewalls, Nmap, Wireshark
+- **Development:** Python, SQL, Bash, PowerShell, JavaScript, TypeScript, React, Git, GitHub
+- **Assessment and governance:** OWASP Top 10, NIST Cybersecurity Framework, ISO/IEC 27001, risk assessment, IAM fundamentals
 
-- LinkedIn: www.linkedin.com/in/muzna-imran
-- GitHub: https://github.com/MuznaImran
+## CTF highlights
+
+- **Team Fatal Flaw — 41st overall and highest-ranked Pakistani team** — Black Hat MEA Qualification CTF (2026)
+- **Team Z3R0S — 20th overall** — Black Hat MEA Qualification CTF (2025)
+
+## Current work
+
+- Developing **BreachSim**, a final-year phishing-simulation and security-awareness platform.
+- Expanding hands-on skills in SOC investigation, security automation, and defensive engineering.
+- Open to graduate and junior opportunities in SOC, blue-team, and network-security roles.
+
+## Selected certifications and training
+
+- Cisco — Introduction to Cybersecurity
+- SkillFront — ISO/IEC 27001 Information Security Associate
+- Mastercard and Deloitte Australia — Cybersecurity Job Simulations on Forage
+- HackerRank — Python (Basic)
