@@ -32,16 +32,16 @@ A full-stack resident and administrator workflow for submitting, assigning, reso
 
 [Open the live demo](https://civicflow-request-tracker.muznaimran328.chatgpt.site/)
 
-### [Wazuh SIEM Lab](https://github.com/MuznaImran/wazuh)
+### [Wazuh SIEM and SOC Lab](https://github.com/MuznaImran/wazuh)
 
-An in-progress collection of foundational notes on SIEM, XDR, and Wazuh, with a roadmap for hands-on labs.
+A reproducible, sanitized security-monitoring portfolio based on skills developed during my six-week OGDCL cybersecurity internship. It includes Wazuh configuration and custom-rule examples, synthetic Windows telemetry, authentication and FIM labs, SOC playbooks, compliance mapping, automated tests, and CI validation.
 
 ## Experience
 
 ### SOC Analyst Intern — OGDCL | Jul–Aug 2026
 
 - Completed a six-week rotation split between SOC analysis and network security.
-- Reviewed security logs and alerts under supervision using a Wazuh-based front end.
+- Reviewed security logs and alert severity under supervision in a SOC/SIEM environment.
 - Studied network-security controls and connected defensive concepts to practical investigation workflows.
 
 ### NOC Intern — Engro Enfrashare | Aug–Sep 2026
